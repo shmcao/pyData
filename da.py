@@ -1,9 +1,10 @@
 # -*- coding: utf-8 -*-
 """
-Data collection procedures, and instruments driver.
-suits for gpib instruments.
+Data acquisition procedures, and instruments driver.
+now is trying to support gpib instruments.
 
-TODO:support for visa and TCP/IP instruments(e.g., PPMS and MPMS)
+TODO:add support for visa and TCP/IP instruments(e.g., PPMS and MPMS)
+TODO:add support for ADLink dll library
 
 v0.1 @Feb 22 2017, by shmcao.
 
